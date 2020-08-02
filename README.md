@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/kajirikajiri"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://qiita.com/kajirikajiri"> <img src="https://img.shields.io/badge/-Qiita-000000?logo=qiita&style=social" alt="Qiita"></a>
   <a href="https://kajirikajiri.netlify.app/"><img src="http://img.shields.io/badge/-MyBlog-217598?logo=WordPress&style=flat" alt="blog"></a>
-  <span><img src="http://img.shields.io/badge/-JavaScript-000000?logo=JavaScript&style=flat" alt="JavaScript"></span>
+  <img src="http://img.shields.io/badge/-JavaScript-000000?logo=JavaScript&style=flat" alt="JavaScript">
 </p>
 
 <!--  thanks  visit  -->
