@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <a href=""><img src="http://img.shields.io/badge/-JavaScript-000000?logo=JavaScript&style=flat" alt="JavaScript"></a>
-  <a href=""><img src="http://img.shields.io/badge/-Vim-019733?logo=vim&style=flat" alt="vim"></a>
 </p>
 
 <!-- <p align="center">
