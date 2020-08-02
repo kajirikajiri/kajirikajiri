@@ -1,9 +1,9 @@
 <p align="center">
+  <a href="https://kajirikajiri.netlify.app/"><img src="http://img.shields.io/badge/-MyBlog-217598?logo=WordPress&style=flat" alt="blog"></a>
   <a href="https://github.com/kajirikajiri"><img src="https://img.shields.io/github/followers/kajirikajiri.svg?label=GitHub&style=social" alt="GitHub"></a>
   <a href="https://twitter.com/kajirikajiri"><img src="https://img.shields.io/twitter/follow/kajirikajiri?label=Twitter&style=social" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/kajirikajiri"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://qiita.com/kajirikajiri"> <img src="https://img.shields.io/badge/-Qiita-000000?logo=qiita&style=social" alt="Qiita"></a>
-  <a href="https://kajirikajiri.netlify.app/"><img src="http://img.shields.io/badge/-MyBlog-217598?logo=WordPress&style=flat" alt="blog"></a>
   <img src="http://img.shields.io/badge/-JavaScript-000000?logo=JavaScript&style=flat" alt="JavaScript">
 </p>
 
