@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img align="center" src="https://github-readme-hellorusk.vercel.app/api?username=kajirikajiri&hide_title=true&show_icons=true&theme=tokyonight" >
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://kajirikajiri.netlify.app/"><img src="http://img.shields.io/badge/-MyBlog-217598?logo=WordPress&style=flat" alt="blog"></a>
