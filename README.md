@@ -12,33 +12,33 @@
   <img src="https://komarev.com/ghpvc/?username=kajirikajiri&color=brightgreen" alt="profile-views">
 </p>
 
-## 基本情報
+### 基本情報
 
 |key|value|
 |----|----|
 |名前|中村 一貴|
 |住所|東京都 品川区|
 
-## 概要
+### 概要
 - JavaScriptを用いたclient side開発を現在の専門としています。
 - JestのUnit Test, PuppeteerやTestcafeを使用したe2eを得意としています。
 
-## 言語
+### 言語
 - JavaScript | TypeScript | Ruby | Bash | Java | PHP
 
-## フレームワーク等
+### フレームワーク等
 - Vue.js | Ruby on Rails | React | Vuetify | React Native | ApexCharts.js
 
-## エディタ
+### エディタ
 - Visual Studio Code | Vim
 
-## OS
+### OS
 - Windows | WSL2 | Mac | Linux
 
-## その他
+### その他
 - Chrome Extension | Puppeteer | Testcafe | Docker | Windows Terminal | Lighthouse | Slack | Github | Obsidian | Figma(read) | Kibela | GitBook 
 
-## 趣味
+### 趣味
 - Rust | Dart | Wasm
 <!--  thanks  visit  -->
 
