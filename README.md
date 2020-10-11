@@ -38,6 +38,8 @@
 ## その他
 - Chrome Extension | Puppeteer | Testcafe | Docker | Windows Terminal | Lighthouse | Slack | Github | Obsidian | Figma(read) | Kibela | GitBook 
 
+## 趣味
+- Rust | Dart | Wasm
 <!--  thanks  visit  -->
 
 <!--------------------->
