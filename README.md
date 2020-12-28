@@ -4,7 +4,7 @@
 
 ### こんにちは！ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-現在、日本の東京でweb開発をしている[なかむらかずき](https://kajirikajiri.github.io/profile/)です。
+現在、日本の東京でweb開発をしている[なかむらかずき](https://kajirikajiri.github.io/profile/)です。<br>
 JavaScriptを用いたclient side開発を現在の専門としています。JestのUnit Test, PuppeteerやTestcafeを使用したe2eを得意としています。
 
 <p>
