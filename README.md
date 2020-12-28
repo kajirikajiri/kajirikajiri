@@ -2,6 +2,10 @@
   <img align="center" src="https://github-readme-hellorusk.vercel.app/api?username=kajirikajiri&hide_title=true&show_icons=true&theme=tokyonight" >
 </p> -->
 
+### こんにちは！ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+現在、日本の東京でweb開発をしている[なかむらかずき](https://kajirikajiri.github.io/profile/)です
+
 <p align="center">
   <a href="https://kajirikajiri.netlify.app/"><img src="http://img.shields.io/badge/-MyBlog-217598?logo=WordPress&style=flat" alt="blog"></a>
   <a href="https://calculator-list.netlify.app/"><img src="http://img.shields.io/badge/-けいさん-217598?style=flat" alt="operated"></a>
@@ -14,33 +18,26 @@
   
 </p>
 
-名前: 中村 一貴
-
-住所: 東京都 品川区
-
-### 概要
+**概要**
 - JavaScriptを用いたclient side開発を現在の専門としています。
 - JestのUnit Test, PuppeteerやTestcafeを使用したe2eを得意としています。
 
-### 言語
+**言語**
 - JavaScript | TypeScript | Ruby | Bash | Java | PHP
 
-### フレームワーク等
+**フレームワーク等**
 - Vue.js | Ruby on Rails | React | Vuetify | React Native | ApexCharts.js
 
-### エディタ
+**エディタ**
 - Visual Studio Code | Vim
 
-### OS
+**OS**
 - Windows | WSL2 | Mac | Linux
 
-### その他
+**その他**
 - Chrome Extension | Puppeteer | Testcafe | Docker | Windows Terminal | Lighthouse | Slack | Github | Obsidian | Figma(read) | Kibela | GitBook 
 
-### 趣味
-- Rust | Dart | Wasm
-
-### 今週のうごき
+**📊 今週の私の過ごし方**
 <!--START_SECTION:waka-->
 ```text
 
