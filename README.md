@@ -39,6 +39,12 @@
 
 ### 趣味
 - Rust | Dart | Wasm
+
+### 今週のうごき
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <!--  thanks  visit  -->
 
 <!--------------------->
