@@ -1,7 +1,3 @@
-<!-- <p align="center">
-  <img align="center" src="https://github-readme-hellorusk.vercel.app/api?username=kajirikajiri&hide_title=true&show_icons=true&theme=tokyonight" >
-</p> -->
-
 ### こんにちは！ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 現在、日本の東京でweb開発をしている[なかむらかずき](https://kajirikajiri.github.io/profile/)です。<br>
@@ -40,31 +36,9 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
 **🧪フレームワーク等**: Vue.js | Ruby on Rails | React | Vuetify | React Native | ApexCharts.js
 **📝エディタ**: Visual Studio Code | Vim
 **🔖OS**: Windows | WSL2 | Mac | Linux
-**🔋その他**: Chrome Extension | Puppeteer | Testcafe | Docker | Windows Terminal | Lighthouse | Slack | Github | Obsidian | Figma(read) | Kibela | GitBook 
+**🔋その他**: Chrome Extension | Puppeteer | Testcafe | Docker | Windows Terminal | Lighthouse | Slack | Github | Obsidian | Figma(read) | Kibela | GitBook | Notion
 
 <a href="https://www.buymeacoffee.com/mehvjeo" target="_blank" style="height:30px;width:109px;">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 109px !important;" height="30" width="109">
 </a>
 
-<!--  thanks  visit  -->
-
-<!--------------------->
-<!-- other my skills -->
-<!--------------------->
-
-<!-- <p align="center">
-  <a href=""><img src="http://img.shields.io/badge/-JavaScript-000000?logo=JavaScript&style=flat" alt="JavaScript"></a>
-  <a href=""><img src="http://img.shields.io/badge/-Vue.js-005A2B?logo=Vue.js&style=flat" alt="vue"></a>
-  <a href=""><img src="http://img.shields.io/badge/-Vuetify-1867c0?logo=Vuetify&style=flat" alt="vuetify"></a>
-  <a href=""><img src="http://img.shields.io/badge/-ruby-cc342d?logo=ruby&style=flat" alt="ruby"></a>
-  <a href=""><img src="http://img.shields.io/badge/-Ruby_on_Rails-cc0000?logo=Ruby-on-Rails&style=flat" alt="ruby"></a>
-</p>
-<p align="center">
-  <a href=""><img src="http://img.shields.io/badge/-Windows-0078d6?logo=Windows&style=flat" alt="windows"></a>
-  <a href=""><img src="http://img.shields.io/badge/-WSL2-000000?logo=Linux&style=flat" alt="Linux"></a>
-  <a href=""><img src="http://img.shields.io/badge/-MacOS-607078?logo=Apple&style=flat" alt="MacOs"></a>
-</p>
-<p align="center">
-  <a href=""><img src="http://img.shields.io/badge/-Vim-019733?logo=vim&style=flat" alt="vim"></a>
-  <a href=""><img src="http://img.shields.io/badge/-Visual_Studio_Code-007acc?logo=visual-studio-code&style=flat" alt="Visual Studio Code"></a>
-</p> -->
