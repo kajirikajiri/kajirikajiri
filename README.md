@@ -14,15 +14,15 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
   <a href="https://www.linkedin.com/in/kajirikajiri" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-**🛠 skills**
+**🛠 Skills**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 
@@ -36,11 +36,11 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-**言語**: JavaScript | TypeScript | Ruby | Bash | Java | PHP
-**フレームワーク等**: Vue.js | Ruby on Rails | React | Vuetify | React Native | ApexCharts.js
-**エディタ**: Visual Studio Code | Vim
-**OS**: Windows | WSL2 | Mac | Linux
-**その他**: Chrome Extension | Puppeteer | Testcafe | Docker | Windows Terminal | Lighthouse | Slack | Github | Obsidian | Figma(read) | Kibela | GitBook 
+**💡言語**: JavaScript | TypeScript | Ruby | Bash | Java | PHP
+**🧪フレームワーク等**: Vue.js | Ruby on Rails | React | Vuetify | React Native | ApexCharts.js
+**📝エディタ**: Visual Studio Code | Vim
+**🔖OS**: Windows | WSL2 | Mac | Linux
+**🔋その他**: Chrome Extension | Puppeteer | Testcafe | Docker | Windows Terminal | Lighthouse | Slack | Github | Obsidian | Figma(read) | Kibela | GitBook 
 
 <a href="https://www.buymeacoffee.com/mehvjeo" target="_blank" style="height:30px;width:109px;">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 109px !important;" height="30" width="109">
