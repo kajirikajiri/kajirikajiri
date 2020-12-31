@@ -41,8 +41,8 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
 
 **💡言語**: JavaScript | TypeScript | Ruby | Bash | Java | PHP
 **🧪フレームワーク等**: Vue.js | Ruby on Rails | React | Vuetify | React Native | ApexCharts.js
-**📝エディタ**: Visual Studio Code | Vim
-**🔖OS**: Windows | WSL2 | Mac | Linux
+**📐エディタ**: Visual Studio Code | Vim
+**📌OS**: Windows | WSL2 | Mac | Linux
 **🔋その他**: Chrome Extension | Puppeteer | Testcafe | Docker | Windows Terminal | Lighthouse | Slack | Github | Obsidian | Figma(read) | Kibela | GitBook | Notion
 
 <a href="https://www.buymeacoffee.com/mehvjeo" target="_blank" style="height:30px;width:109px;">
