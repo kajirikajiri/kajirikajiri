@@ -11,6 +11,7 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
 </p>
 
 <br/>
+<br/>
 
 **🛠 Skills**
 
@@ -44,6 +45,9 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
 **📐エディタ**: Visual Studio Code | Vim
 **📌OS**: Windows | WSL2 | Mac | Linux
 **🔋その他**: Chrome Extension | Puppeteer | Testcafe | Docker | Windows Terminal | Lighthouse | Slack | Github | Obsidian | Figma(read) | Kibela | GitBook | Notion
+
+<br/>
+<br/>
 
 <a href="https://www.buymeacoffee.com/mehvjeo" target="_blank" style="height:30px;width:109px;">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 109px !important;" height="30" width="109">
