@@ -23,6 +23,7 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
+<br/>
 
 **📊 今週の私の過ごし方**
 <!--START_SECTION:waka-->
@@ -33,6 +34,8 @@ JSON         4 mins          ▓░░░░░░░░░░░░░░░░
 JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 <!--END_SECTION:waka-->
+
+<br/>
 
 **💡言語**: JavaScript | TypeScript | Ruby | Bash | Java | PHP
 **🧪フレームワーク等**: Vue.js | Ruby on Rails | React | Vuetify | React Native | ApexCharts.js
