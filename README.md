@@ -10,6 +10,10 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
   <a href="https://www.linkedin.com/in/kajirikajiri" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+  
+  
+  
+  
 **🛠 Skills**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
