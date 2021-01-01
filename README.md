@@ -4,9 +4,9 @@
 JavaScriptを用いたclient side開発を現在の専門としています。JestのUnit Test, PuppeteerやTestcafeを使用したe2eを得意としています。
 
 <p>
-  <a href="https://kajirikajiri.netlify.app/" target="_blank"><img alt="Gatsby" src="https://img.shields.io/badge/gatsby-%2312100E.svg?&style=for-the-badge&logo=gatsby&logoColor=white" /></a>
+  <a href="https://kajirikajiri.netlify.app/" target="_blank"><img alt="Gatsby" src="https://img.shields.io/badge/techblog-%2312100E.svg?&style=for-the-badge&logo=gatsby&logoColor=white" /></a>
   <a href="https://twitter.com/kajirikajiri" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://github.com/kajirikajiri/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://kajirikajiri.github.io/profile/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Profile-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/kajirikajiri" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
