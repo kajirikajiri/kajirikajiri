@@ -15,7 +15,7 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
 
 **🧑‍💻 実績**
 
-<a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/auto-save-memo/akcmagofffmjcmckjlognegldcgajcpl"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png"></code> auto save memo(chrome-extension)</a>
+<a target="_blank" href="https://chrome.google.com/webstore/detail/auto-save-memo/akcmagofffmjcmckjlognegldcgajcpl"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png"></code> auto save memo(chrome-extension)</a>
 
 <br/>
 <br/>
