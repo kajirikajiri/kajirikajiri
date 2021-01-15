@@ -15,7 +15,7 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
 
 **🧑‍💻 実績**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png"></code>自作のメモ帳(chrome-extension)
+<a href="https://chrome.google.com/webstore/detail/auto-save-memo/akcmagofffmjcmckjlognegldcgajcpl"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png"></code>自作のメモ帳(chrome-extension)</a>
 
 <br/>
 <br/>
