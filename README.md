@@ -43,7 +43,7 @@ Markdown     1 hr 43 mins    ▓░░░░░░░░░░░░░░░░
 <br/>
 
 **💡言語**: JavaScript | TypeScript | Ruby | Bash | Java | PHP
-**🧪フレームワーク等**: Vue.js | Ruby on Rails | React | Vuetify | React Native | ApexCharts.js
+**🧪フレームワーク等**: Vue.js | React | Vuetify | Ruby on Rails | React Native | ApexCharts.js
 **📐エディタ**: Visual Studio Code | Vim
 **📌OS**: Windows | WSL2 | Mac | Linux
 **🧰ブラウザ拡張機能開発**: Chrome | Firefox | Microsoft Edge
