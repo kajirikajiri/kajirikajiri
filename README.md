@@ -46,7 +46,8 @@ Markdown     1 hr 43 mins    ▓░░░░░░░░░░░░░░░░
 **🧪フレームワーク等**: Vue.js | Ruby on Rails | React | Vuetify | React Native | ApexCharts.js
 **📐エディタ**: Visual Studio Code | Vim
 **📌OS**: Windows | WSL2 | Mac | Linux
-**🔋その他**: Chrome Extension | Puppeteer | Testcafe | Docker | Windows Terminal | Lighthouse | Slack | Github | Obsidian | Figma(read) | Kibela | GitBook | Notion
+**🧰ブラウザ拡張**: Chrome | Firefox | Microsoft Edge
+**🔋その他**: Puppeteer | Testcafe | Docker | Windows Terminal | Lighthouse | Slack | Github | Obsidian | Figma(read) | Kibela | GitBook | Notion
 
 <br/>
 <br/>
