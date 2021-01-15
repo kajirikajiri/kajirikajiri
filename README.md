@@ -35,7 +35,7 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
 <br/>
 <br/>
 
-**📊 今週の私の過ごし方**
+**📊 今週の私の過ごし方(<a href="https://github.com/kajirikajiri/kajirikajiri/commits/master">毎日更新</a>)**
 <!--START_SECTION:waka-->
 ```text
 TypeScript   57 hrs 52 mins  ████████████████████░░░░░   79.40 % 
@@ -54,7 +54,7 @@ Markdown     1 hr 43 mins    ▓░░░░░░░░░░░░░░░░
 **📐エディタ**: Visual Studio Code | Vim
 **📌OS**: Windows | WSL2 | Mac | Linux
 **🧰ブラウザ拡張機能開発**: Chrome | Firefox | Microsoft Edge
-**🔋その他**: Puppeteer | Testcafe | Docker | Windows Terminal | Lighthouse | Slack | Github | Obsidian | Figma(read) | Kibela | GitBook | Notion
+**🔋その他**: Puppeteer | Testcafe | Docker | Windows Terminal | CircleCI | Github Actions | Lighthouse | Slack | Github | Obsidian | Figma(read) | Kibela | GitBook | Notion
 
 <br/>
 <br/>
