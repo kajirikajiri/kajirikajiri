@@ -4,10 +4,10 @@
 JavaScriptを用いたclient side開発を現在の専門としています。JestのUnit Test, PuppeteerやTestcafeを使用したe2eを得意としています。
 
 <p>
-  <a href="https://kajirikajiri.netlify.app/" target="_blank"><img alt="Gatsby" src="https://img.shields.io/badge/techblog-%2312100E.svg?&style=for-the-badge&logo=gatsby&logoColor=white" /></a>
-  <a href="https://twitter.com/kajirikajiri" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://kajirikajiri.github.io/profile/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Profile-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/kajirikajiri" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://kajirikajiri.netlify.app/" target="_blank" rel="noopener noreferrer"><img alt="Gatsby" src="https://img.shields.io/badge/techblog-%2312100E.svg?&style=for-the-badge&logo=gatsby&logoColor=white" /></a>
+  <a href="https://twitter.com/kajirikajiri" target="_blank" rel="noopener noreferrer"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://kajirikajiri.github.io/profile/" target="_blank" rel="noopener noreferrer"><img alt="Github" src="https://img.shields.io/badge/Profile-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kajirikajiri" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <br/>
@@ -15,7 +15,7 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
 
 **🧑‍💻 実績**
 
-<a href="https://chrome.google.com/webstore/detail/auto-save-memo/akcmagofffmjcmckjlognegldcgajcpl"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png"></code> auto save memo(chrome-extension)</a>
+<a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/auto-save-memo/akcmagofffmjcmckjlognegldcgajcpl"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png"></code> auto save memo(chrome-extension)</a>
 
 <br/>
 <br/>
@@ -35,7 +35,7 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
 <br/>
 <br/>
 
-**📊 今週の私の過ごし方(<a href="https://github.com/kajirikajiri/kajirikajiri/commits/master">毎日更新</a>)**
+**📊 今週の私の過ごし方(<a target="_blank" rel="noopener noreferrer" href="https://github.com/kajirikajiri/kajirikajiri/commits/master">毎日更新</a>)**
 <!--START_SECTION:waka-->
 ```text
 TypeScript   57 hrs 52 mins  ████████████████████░░░░░   79.40 % 
