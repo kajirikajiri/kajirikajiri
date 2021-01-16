@@ -10,8 +10,10 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
   <a href="https://www.linkedin.com/in/kajirikajiri"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+
 <br/>
 <br/>
+
 
 **🧑‍💻 実績**
 
@@ -21,6 +23,23 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
 
 <br/>
 <br/>
+
+
+**📊 今週の私の過ごし方(<a href="https://github.com/kajirikajiri/kajirikajiri/commits/master">毎日更新</a>)**
+<!--START_SECTION:waka-->
+```text
+TypeScript   48 hrs 33 mins  ██████████████████▒░░░░░░   73.88 % 
+JSON         8 hrs 25 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+JavaScript   2 hrs 44 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Ruby         2 hrs 6 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Markdown     1 hr 46 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+```
+<!--END_SECTION:waka-->
+
+
+<br/>
+<br/>
+
 
 **🛠 Skills**
 
@@ -34,22 +53,10 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
-<br/>
-<br/>
-
-**📊 今週の私の過ごし方(<a href="https://github.com/kajirikajiri/kajirikajiri/commits/master">毎日更新</a>)**
-<!--START_SECTION:waka-->
-```text
-TypeScript   48 hrs 33 mins  ██████████████████▒░░░░░░   73.88 % 
-JSON         8 hrs 25 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-JavaScript   2 hrs 44 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Ruby         2 hrs 6 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-Markdown     1 hr 46 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-```
-<!--END_SECTION:waka-->
 
 <br/>
 <br/>
+
 
 **💡言語**: JavaScript | TypeScript | Ruby | Bash | Java | PHP
 **🧪フレームワーク等**: Vue.js | React | Vuetify | Ruby on Rails | React Native | ApexCharts.js
@@ -58,8 +65,10 @@ Markdown     1 hr 46 mins    ▓░░░░░░░░░░░░░░░░
 **🧰ブラウザ拡張機能開発**: Chrome | Firefox | Microsoft Edge
 **🔋その他**: Puppeteer | Testcafe | Docker | Windows Terminal | CircleCI | Github Actions | Lighthouse | Slack | Github | Obsidian | Figma(read) | Kibela | GitBook | Notion
 
+
 <br/>
 <br/>
+
 
 <a href="https://www.buymeacoffee.com/mehvjeo" style="height:30px;width:109px;">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 109px !important;" height="30" width="109">
