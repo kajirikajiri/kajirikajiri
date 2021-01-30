@@ -67,8 +67,8 @@ JSON         2 hrs 37 mins   █░░░░░░░░░░░░░░░░
 **📐エディタ**: Visual Studio Code | Vim
 **📌OS**: Windows | WSL2 | Mac | Linux
 **🧰ブラウザ拡張機能開発**: Chrome | Firefox | Microsoft Edge
+**⬆ホスティング**: Vercel | Netlify | Heroku
 **🔋その他**: Puppeteer | Testcafe | Docker | Windows Terminal | CircleCI | Github Actions | Lighthouse | Slack | Github | Obsidian | Figma(read) | Kibela | GitBook | Notion
-**⬆ホスティング**: Vercel | Netlify
 
 
 <br/>
