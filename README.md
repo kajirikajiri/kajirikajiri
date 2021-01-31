@@ -28,9 +28,10 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
 
 `web`
 
-- <a href="https://vue-exponential-explosion.firebaseapp.com/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>指数的爆発 </a>
-
 - <a href="https://typescripttypinggame.firebaseapp.com/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>typing game </a>
+
+
+- <a href="https://vue-exponential-explosion.firebaseapp.com/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>指数的爆発 </a>
 
 
 <br/>
