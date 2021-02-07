@@ -26,13 +26,6 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
 - <a href="https://chrome.google.com/webstore/detail/auto-save-memo/akcmagofffmjcmckjlognegldcgajcpl"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png"></code> auto save memo</a><a href="https://github.com/kajirikajiri/chrome-extension-memo"> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> code</a>
 
-`web`
-
-- <a href="https://typescripttypinggame.firebaseapp.com/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>typing game </a>
-
-
-- <a href="https://vue-exponential-explosion.firebaseapp.com/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>指数的爆発 </a>
-
 
 <br/>
 <br/>
