@@ -23,8 +23,7 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
 
 - <a href="https://chrome.google.com/webstore/detail/table-of-content/icfehdfgaimjlddjmmbbkdfhkhnbfika"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png"></code>Table of Content&nbsp;&nbsp;&nbsp;</a><a href="https://github.com/kajirikajiri/chrome-extension-toc"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>code</a>
 
-- <a href="https://chrome.google.com/webstore/detail/auto-save-memo/akcmagofffmjcmckjlognegldcgajcpl"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png"></code>auto save memo&nbsp;&nbsp;&nbsp;</a><a href="https://github.com/kajirikajiri/chrome-extension-memo">
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>code</a>
+- <a href="https://chrome.google.com/webstore/detail/auto-save-memo/akcmagofffmjcmckjlognegldcgajcpl"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png"></code>auto save memo&nbsp;&nbsp;&nbsp;</a><a href="https://github.com/kajirikajiri/chrome-extension-memo"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>code</a>
 
 
 <br/>
