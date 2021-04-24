@@ -68,7 +68,7 @@ Vue.js       33 mins         █░░░░░░░░░░░░░░░░
 **🔳 others**
 
 ```
-💡言語: JavaScript | TypeScript | Ruby | Bash | Java | PHP 🧪フレームワーク: Reactjs | material-ui | Nextjs | Gatsbyjs | Vue.js | Vuetify | Ruby on Rails | React Native | ApexCharts.js 📐エディタ: Visual Studio Code | Vim 📌OS: Windows | WSL2 | Mac | Linux 🧰ブラウザ拡張機能開発: Chrome | Firefox | Microsoft Edge ⬆ホスティング: Vercel | Netlify | Heroku 🔋その他: Puppeteer | Testcafe | Docker | Windows Terminal | CircleCI | Github Actions | Lighthouse | Slack | Github | Obsidian | Figma(read) | Kibela | GitBook | Notion
+💡言語: JavaScript | TypeScript | Ruby | Bash | Java | PHP 🧪フレームワーク: Reactjs | material-ui | Nextjs | Gatsbyjs | Tailwindcss | Vue.js | Vuetify | Ruby on Rails | React Native | ApexCharts.js 📐エディタ: Visual Studio Code | Vim 📌OS: Windows | WSL2 | Mac | Linux 🧰ブラウザ拡張機能開発: Chrome | Firefox | Microsoft Edge ⬆ホスティング: Vercel | Netlify | Heroku 🔋その他: Puppeteer | Testcafe | Docker | Windows Terminal | CircleCI | Github Actions | Lighthouse | Slack | Github | Obsidian | Figma(read) | Kibela | GitBook | Notion
 ```
 
 <br/>
