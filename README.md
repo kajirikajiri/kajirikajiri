@@ -6,7 +6,7 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
 <p>
   <a href="https://kajiri.dev"><img alt="Gatsby" src="https://img.shields.io/badge/techblog-%2312100E.svg?&style=for-the-badge&logo=gatsby&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://twitter.com/kajirikajiri"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://kajirikajiri.github.io/profile/"><img alt="Github" src="https://img.shields.io/badge/Profile-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://kajiri.dev/profile/"><img alt="Github" src="https://img.shields.io/badge/Profile-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kajirikajiri"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
