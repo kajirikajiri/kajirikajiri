@@ -31,6 +31,14 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
 <br/>
 <br/>
 
+`website`
+
+- <a href="https://kajiri.dev"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png"></code>Jamstack tech blog&nbsp;&nbsp;&nbsp;</a><a href="https://github.com/kajirikajiri/jamstack-tech-blog"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>code</a>
+
+
+<br/>
+<br/>
+
 
 **📊 今週の私の過ごし方(<a href="https://github.com/kajirikajiri/kajirikajiri/commits/master">毎日更新</a>)**
 <!--START_SECTION:waka-->
