@@ -83,7 +83,8 @@ XML          11 mins         ▒░░░░░░░░░░░░░░░░
 <br/>
 
 
+<!--
 <a href="https://www.buymeacoffee.com/mehvjeo" style="height:30px;width:109px;">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 109px !important;" height="30" width="109">
 </a>
-
+-->
