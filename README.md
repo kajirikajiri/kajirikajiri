@@ -2,11 +2,12 @@
 
 現在、日本の東京でweb開発をしている<a href="https://kajiri.dev/profile/">なかむらかずき</a>です。<br>
 JavaScriptを用いたclient side開発を現在の専門としています。JestのUnit Test, PuppeteerやTestcafeを使用したe2eを得意としています。
+プログラミングの<a href="https://menta.work/user/36944">Mentor</a>としても活動しています。
 
 <p>
-  <a href="https://kajiri.dev"><img alt="Gatsby" src="https://img.shields.io/badge/techblog-%2312100E.svg?&style=for-the-badge&logo=gatsby&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://kajiri.dev/profile"><img alt="CloudFlare" src="https://img.shields.io/badge/techblog-%2312100E.svg?&style=for-the-badge&logo=cloudflare&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://twitter.com/kajirikajiri"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://kajiri.dev/profile/"><img alt="Github" src="https://img.shields.io/badge/Profile-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://menta.work/user/36944"><img alt="MENTA" src="https://img.shields.io/badge/MENTA-%2312100E.svg?&style=for-the-badge&color=13b1c0" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kajirikajiri"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -16,20 +17,6 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
 
 
 **🧑‍💻 実績**
-
-`chrome-extension`
-
-- <a href="https://chrome.google.com/webstore/detail/data-test-getter/lncoidgddiehilhohcoojoljcmnnhnli"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png"></code>data-test getter&nbsp;&nbsp;&nbsp;</a><a href="https://github.com/kajirikajiri/chrome-extension-selector-getter"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>code</a>
-
-- <a href="https://chrome.google.com/webstore/detail/dom-selector/onaelbeklpeejdgjfipbjjfckickdpkj"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png"></code>dom selector&nbsp;&nbsp;&nbsp;</a><a href="https://github.com/kajirikajiri/chrome-extension-dom-selector"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>extension&nbsp;&nbsp;&nbsp;</a><a href="https://github.com/kajirikajiri/next-puppeteer"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>frontend&nbsp;&nbsp;&nbsp;</a><a href="https://github.com/kajirikajiri/next-puppeteer-heroku"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>backend&nbsp;&nbsp;&nbsp;</a>
-
-- <a href="https://chrome.google.com/webstore/detail/table-of-content/icfehdfgaimjlddjmmbbkdfhkhnbfika"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png"></code>Table of Content&nbsp;&nbsp;&nbsp;</a><a href="https://github.com/kajirikajiri/chrome-extension-toc"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>code</a>
-
-- <a href="https://chrome.google.com/webstore/detail/auto-save-memo/akcmagofffmjcmckjlognegldcgajcpl"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png"></code>auto save memo&nbsp;&nbsp;&nbsp;</a><a href="https://github.com/kajirikajiri/chrome-extension-memo"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>code</a>
-
-
-<br/>
-<br/>
 
 `website`
 
