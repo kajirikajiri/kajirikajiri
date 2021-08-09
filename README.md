@@ -5,9 +5,9 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
 プログラミングの<a href="https://menta.work/user/36944">Mentor</a>としても活動しています。
 
 <p>
+  <a href="https://menta.work/user/36944"><img alt="MENTA" src="https://img.shields.io/badge/MENTA-%2312100E.svg?&style=for-the-badge&color=13b1c0" /></a>&nbsp;&nbsp;
   <a href="https://kajiri.dev/profile"><img alt="CloudFlare" src="https://img.shields.io/badge/techblog-%2312100E.svg?&style=for-the-badge&logo=cloudflare&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://twitter.com/kajirikajiri"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://menta.work/user/36944"><img alt="MENTA" src="https://img.shields.io/badge/MENTA-%2312100E.svg?&style=for-the-badge&color=13b1c0" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kajirikajiri"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
