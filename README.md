@@ -22,10 +22,6 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
 
 - <a href="https://kajiri.dev"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png"></code>Jamstack tech blog&nbsp;&nbsp;&nbsp;</a><a href="https://github.com/kajirikajiri/jamstack-tech-blog"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>code</a>
 
-`server`
-
-- <a href="https://kajiri.dev"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png"></code>Jamstack tech blog&nbsp;&nbsp;&nbsp;</a><a href="https://github.com/kajirikajiri/ts-express-server"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>code</a>
-
 `github actions marketplace`
 
 - <a href="https://kajiri.dev"><code><img height="20" src="https://img.shields.io/badge/-1DA1F2.svg?logo=notion&style=social&color=white"></code>GithubIssueToNotion&nbsp;&nbsp;&nbsp;</a><a href="https://github.com/kajirikajiri/GithubIssueToNotion"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>code</a>
