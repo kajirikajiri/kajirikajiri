@@ -2,7 +2,7 @@
 
 現在、日本の東京でweb開発をしている<a href="https://kajiri.dev/profile/">なかむらかずき</a>です。<br>
 JavaScriptを用いたclient side開発を現在の専門としています。JestのUnit Test, PuppeteerやTestcafeを使用したe2eを得意としています。
-プログラミングの<a href="https://menta.work/user/36944">Mentor</a>としても活動しています。
+<!-- プログラミングの<a href="https://menta.work/user/36944">Mentor</a>としても活動しています。 -->
 
 <p>
   <a href="https://menta.work/user/36944"><img alt="MENTA" src="https://img.shields.io/badge/MENTA-%2312100E.svg?&style=for-the-badge&color=13b1c0" /></a>&nbsp;&nbsp;
