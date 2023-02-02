@@ -35,9 +35,12 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   14 hrs 19 mins  █████████████▓░░░░░░░░░░░   54.32 %
-Ruby         9 hrs 10 mins   ████████▓░░░░░░░░░░░░░░░░   34.78 %
-Other        1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+TypeScript   15 hrs 20 mins  ███████████████▓░░░░░░░░░   63.19 %
+Ruby         8 hrs 1 min     ████████▒░░░░░░░░░░░░░░░░   33.06 %
+JavaScript   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+YAML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
