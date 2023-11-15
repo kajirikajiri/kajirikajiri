@@ -35,7 +35,7 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
