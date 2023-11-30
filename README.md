@@ -35,8 +35,7 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby   1 hr 31 mins    ████████████████████████▓   98.50 %
-CSV    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+CSV   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
