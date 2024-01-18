@@ -35,11 +35,11 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
 <!--START_SECTION:waka-->
 
 ```txt
-CoffeeScript   13 hrs 43 mins  ███████████░░░░░░░░░░░░░░   44.06 %
-Ruby           5 hrs 54 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.98 %
-Slim           4 hrs 32 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
-Other          4 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
-TypeScript     1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+CoffeeScript   14 hrs 43 mins  ███████████░░░░░░░░░░░░░░   43.47 %
+Ruby           6 hrs 20 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.73 %
+Slim           4 hrs 17 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
+Other          4 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
+TypeScript     2 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
 ```
 
 <!--END_SECTION:waka-->
