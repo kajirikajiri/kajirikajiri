@@ -37,7 +37,7 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
 ```txt
 Other          7 hrs 21 mins   ██████████░░░░░░░░░░░░░░░   40.16 %
 Slim           3 hrs 58 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.69 %
-CoffeeScript   3 hrs 41 mins   █████░░░░░░░░░░░░░░░░░░░░   20.18 %
+CoffeeScript   3 hrs 41 mins   █████░░░░░░░░░░░░░░░░░░░░   20.19 %
 Ruby           2 hrs 38 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
 JavaScript     25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
