@@ -35,11 +35,11 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
 <!--START_SECTION:waka-->
 
 ```txt
-Other          9 hrs 20 mins   ██████████▓░░░░░░░░░░░░░░   42.10 %
-Slim           5 hrs 22 mins   ██████░░░░░░░░░░░░░░░░░░░   24.27 %
-CoffeeScript   4 hrs 53 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.05 %
-Ruby           2 hrs 25 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
-YAML           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Other          10 hrs 33 mins  ██████████▓░░░░░░░░░░░░░░   43.00 %
+Slim           5 hrs 22 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.93 %
+CoffeeScript   4 hrs 53 mins   █████░░░░░░░░░░░░░░░░░░░░   19.92 %
+Ruby           2 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+Text           1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
 ```
 
 <!--END_SECTION:waka-->
