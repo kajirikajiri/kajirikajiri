@@ -35,11 +35,11 @@ JavaScriptを用いたclient side開発を現在の専門としています。Je
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby           13 hrs 44 mins  █████████▓░░░░░░░░░░░░░░░   38.24 %
-Other          10 hrs 8 mins   ███████░░░░░░░░░░░░░░░░░░   28.19 %
-sshconfig      3 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-JavaScript     2 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-Slim           2 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+Ruby           14 hrs 22 mins  ██████████▒░░░░░░░░░░░░░░   40.67 %
+Other          8 hrs 29 mins   ██████░░░░░░░░░░░░░░░░░░░   24.03 %
+sshconfig      3 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
+Slim           2 hrs 37 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+JavaScript     2 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
 ```
 
 <!--END_SECTION:waka-->
