@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     3 hrs 20 mins   ..........⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   38.85 %
-Other        2 hrs 49 mins   ........⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   32.76 %
-TypeScript   1 hr 53 mins    .....⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   21.91 %
-JavaScript   21 mins         .⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   04.09 %
-Makefile     10 mins         ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   01.98 %
+Markdown     3 hrs 20 mins   ...........⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   44.20 %
+TypeScript   1 hr 53 mins    ......⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   24.93 %
+Other        1 hr 46 mins    ......⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   23.51 %
+JavaScript   21 mins         .⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   04.65 %
+Makefile     10 mins         .⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   02.25 %
 ```
 
 <!--END_SECTION:waka-->
