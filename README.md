@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SCSS           5 hrs           .....⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   20.50 %
-JavaScript     4 hrs 1 min     ....⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   16.51 %
-CoffeeScript   3 hrs 48 mins   ....⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   15.61 %
-Ruby           3 hrs 32 mins   ....⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   14.48 %
-Other          3 hrs 18 mins   ...⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   13.55 %
+SCSS           4 hrs 20 mins   .....⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   18.62 %
+JavaScript     4 hrs 7 mins    ....⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   17.68 %
+Other          3 hrs 53 mins   ....⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   16.73 %
+CoffeeScript   3 hrs 48 mins   ....⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   16.37 %
+Ruby           3 hrs 15 mins   ....⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   14.02 %
 ```
 
 <!--END_SECTION:waka-->
